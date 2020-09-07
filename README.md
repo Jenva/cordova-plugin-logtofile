@@ -1,4 +1,4 @@
-# cordova-plugin-logtofile
+# logtofile
 
 > Cordova plugin for writing logs to the filesystem.
 
